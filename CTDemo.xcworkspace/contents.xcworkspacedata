@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:CModule/CModule.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CCategory/CCategory.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BModule/BModule.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BCategory/BCategory.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ACategory/ACategory.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AModule/AModule.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CTMediator/CTMediator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CTDemo.xcodeproj">
+   </FileRef>
+</Workspace>
